@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sina-drik](https://github.com/sinaderik)
+- 👨‍💻 All of my projects are available at [https://github.com/sinaderik](https://github.com/sinaderik)
 
 - 📝 I regularly write articles on [https://medium.com/@sinadrik98](https://medium.com/@sinadrik98)
 
