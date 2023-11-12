@@ -22,7 +22,7 @@
 <a href="https://twitter.com/sina_derik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sina_derik" height="30" width="40" /></a>
 <a href="https://instagram.com/sina.drik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sina.drik" height="30" width="40" /></a>
 <a href="https://medium.com/@sinaderik98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sinaderik98" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devmasteren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devmasteren" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9D9yj56f9iABFYgNTmyWUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devmasteren" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
